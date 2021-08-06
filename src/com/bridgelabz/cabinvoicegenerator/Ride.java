@@ -10,7 +10,8 @@ public class Ride {
 		this.time = time;
 	}
 	@Override
-	public String toString() {
+	public String toString() 
+	{
 		return "Ride [distance=" + distance + ", time=" + time + "]";
 	}
 	
